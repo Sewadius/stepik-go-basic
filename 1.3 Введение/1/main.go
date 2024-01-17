@@ -1,9 +1,9 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
 )
 
 func main() {
-    fmt.Println("Hello, PRO Go!")
+	fmt.Println("Hello, PRO Go!")
 }
